@@ -3,6 +3,7 @@ using drink;
 
 
 
+
 namespace refrigerant
 {
     public class Refrigerante : Bebida
@@ -17,7 +18,7 @@ namespace refrigerant
 
     public void ImprimirDados()
     {
-        string tipoEmbalagem = Vidro ? "vidro" : "uma garrafa pet";
+        string tipoEmbalagem = Vidro ? "vidro" : "é uma garrafa de plastico";
         Console.WriteLine($"O produto id {Id} com nome {NomeBebida} é um refrigerante MiliLitros {MiliLitro} é {tipoEmbalagem}");
     }
 }

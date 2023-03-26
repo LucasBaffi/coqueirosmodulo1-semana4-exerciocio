@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/lucas/FloripaMaisTech/ExercicioSemana4/ExerciciosSemana4/ExerciciosSemana4.csproj": {}
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\FloripaMaisTech\\semana4\\coqueirosmodulo1-semana4-exerciocio\\ExerciciosSemana4\\ExerciciosSemana4.csproj": {}
   },
   "projects": {
-    "/home/lucas/FloripaMaisTech/ExercicioSemana4/ExerciciosSemana4/ExerciciosSemana4.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\FloripaMaisTech\\semana4\\coqueirosmodulo1-semana4-exerciocio\\ExerciciosSemana4\\ExerciciosSemana4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lucas/FloripaMaisTech/ExercicioSemana4/ExerciciosSemana4/ExerciciosSemana4.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\FloripaMaisTech\\semana4\\coqueirosmodulo1-semana4-exerciocio\\ExerciciosSemana4\\ExerciciosSemana4.csproj",
         "projectName": "ExerciciosSemana4",
-        "projectPath": "/home/lucas/FloripaMaisTech/ExercicioSemana4/ExerciciosSemana4/ExerciciosSemana4.csproj",
-        "packagesPath": "/home/lucas/.nuget/packages/",
-        "outputPath": "/home/lucas/FloripaMaisTech/ExercicioSemana4/ExerciciosSemana4/obj/",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\FloripaMaisTech\\semana4\\coqueirosmodulo1-semana4-exerciocio\\ExerciciosSemana4\\ExerciciosSemana4.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\FloripaMaisTech\\semana4\\coqueirosmodulo1-semana4-exerciocio\\ExerciciosSemana4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/lucas/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
